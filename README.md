@@ -1,2 +1,2 @@
-Praktikum Teknologi Cloud - Amhar Nur Huda (175610087)
+Praktikum Teknologi Cloud Computing - Amhar Nur Huda (175610087)
 
