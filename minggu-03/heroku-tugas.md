@@ -30,5 +30,6 @@
 ![49](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-03/Image/49.png)
 
 - Kemudian dijalankan hasil pada web heroku (tranquil-brushlands-53883) dengan melakukan proses add - commit - push terlebih dahulu
+
 ![50](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-03/Image/50.png)
 ![51](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-03/Image/51.png)
