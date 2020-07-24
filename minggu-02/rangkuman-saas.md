@@ -56,7 +56,7 @@ Saat ini, Python merupakan salah satu bahasa pemrograman modern yang paling bany
 
 - Basis Data
 
-Selain memilih penggunaan bahasa pemrograman, kita juga harus pintar dalam memilih pemasangan basis data yang akan digunakan. Disini kami merekomendasikan penggunaan document-oriented database. Jenis database ini sangat berbeda dengan konsep tradisional database relasional.
+Selain memilih penggunaan bahasa pemrograman, kita juga harus pintar dalam memilih pemasangan basis data yang akan digunakan. Disini saya merekomendasikan penggunaan document-oriented database. Jenis database ini sangat berbeda dengan konsep tradisional database relasional.
 
 Alasan untuk menggunakan document-oriented database yaitu dikarenakan database jenis ini mendapatkan informasi tipenya dari data itu sendiri. Dengan demikian setiap instansi data dapat berbeda dari yang lain yang memungkinkan lebih banyak fleksibilitas, terutama ketika berhadapan dengan perubahan dan sering mengurangi ukuran basis data.
 
@@ -64,7 +64,7 @@ Singkatnya, konsep document-oriented database menawarkan pengalaman yang lebih b
 
 - Perangkat Lunak
 
-Disini kami merekomendasikan menggunakan MongoDB sebagai aplikasi untuk database aplikasi
+Disini saya merekomendasikan menggunakan MongoDB sebagai aplikasi untuk database aplikasi
 
 Alasan memilih menggunakannya dikarenakan MongoDB merupakan document-oriented database yang memberikan kinerja tinggi, ketersediaan tinggi, dan skalabilitas mudah. Selain kinerja, Skalabilitas adalah faktor terpenting bagi kita sebagai pengembang aplikasi SaaS.
 
