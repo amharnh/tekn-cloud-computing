@@ -51,19 +51,23 @@ Bahasa pemrograman mana yang harus kita pakai, basis data apa yang akan kita gun
 - Bahasa Pemrograman
 
 Membangun aplikasi pada cloud berarti kita membangun suatu produk dengan bahasa pemrograman modern. Selain membutuhkan kemampuan dan keterampilan pribadi, pilihan bahasa pemrograman dipengaruhi oleh kemungkinan masing-masing bahasa. Ada berbagai bahasa pemrograman modern di luar sana sehingga sulit untuk memilih yang tepat. Sehingga disini kita hanya perlu melihat yang paling menonjol dan mencoba bermain-main dengan bahasa pemrograman tersebut dan lakukan eksperimen sebanyak mungkin.
+
 Saat ini, Python merupakan salah satu bahasa pemrograman modern yang paling banyak digunakan oleh programmer. Python adalah bahasa pemrograman yang banyak digunakan, dan dirancang untuk menekankan pada keterbacaan kode. Python dapat melakukan banyak hal. Apa pun aplikasi web yang ingin kita bangun, kemungkinan ada kerangka kerjanya di Python dan juga tingkat fleksibilitas python untuk mengatasi berbagai kasus dalam penggunaannya
 
 - Basis Data
 
 Selain memilih penggunaan bahasa pemrograman, kita juga harus pintar dalam memilih pemasangan basis data yang akan digunakan. Disini kami merekomendasikan penggunaan document-oriented database. Jenis database ini sangat berbeda dengan konsep tradisional database relasional.
+
 Alasan untuk menggunakan document-oriented database yaitu dikarenakan database jenis ini mendapatkan informasi tipenya dari data itu sendiri. Dengan demikian setiap instansi data dapat berbeda dari yang lain yang memungkinkan lebih banyak fleksibilitas, terutama ketika berhadapan dengan perubahan dan sering mengurangi ukuran basis data.
+
 Singkatnya, konsep document-oriented database menawarkan pengalaman yang lebih banyak dengan teknik pemrograman modern.
 
 - Perangkat Lunak
 
 Disini kami merekomendasikan menggunakan MongoDB sebagai aplikasi untuk database aplikasi
+
 Alasan memilih menggunakannya dikarenakan MongoDB merupakan document-oriented database yang memberikan kinerja tinggi, ketersediaan tinggi, dan skalabilitas mudah. Selain kinerja, Skalabilitas adalah faktor terpenting bagi kita sebagai pengembang aplikasi SaaS.
-Banyak pengembang SaaS bertujuan untuk meningkatkan skala bisnis mereka. Selain mengubah skala produk dari perspektif bisnis, kita tidak boleh melupakan masalah teknis. Menskalakan teknologi dengan MongoDB cukup mudah. Dengan menggunakan automatic sharding, Kita dapat mendistribusikan data di berbagai mesin.
-Sharding adalah metode untuk menyimpan data di beberapa mesin dan MongoDB menggunakan sharding untuk mendukung penyebaran dengan dataset besar.
+
+Banyak pengembang SaaS bertujuan untuk meningkatkan skala bisnis mereka. Selain mengubah skala produk dari perspektif bisnis, kita tidak boleh melupakan masalah teknis. Menskalakan teknologi dengan MongoDB cukup mudah. Dengan menggunakan automatic sharding, Kita dapat mendistribusikan data di berbagai mesin. Sharding adalah metode untuk menyimpan data di beberapa mesin dan MongoDB menggunakan sharding untuk mendukung penyebaran dengan dataset besar.
 
 
