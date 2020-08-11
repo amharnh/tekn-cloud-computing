@@ -21,6 +21,7 @@ Setelah itu kita dapat melakukan pengujian dengan menjalankan docker image terse
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-07/Image/16.png)
 
 Dan juga disini kita dapat melakukan penyimpanan image tersebut pada repository testing yang telah kita buat dengan menggunakan perintah docker push
+
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-07/Image/17.png)
 
 Yang nantinya akan terlihat terdapat file yang telah terupload ke repository testing yang merupakan hasil dari docker push tersebut

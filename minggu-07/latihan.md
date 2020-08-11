@@ -15,6 +15,7 @@ Setelah selesai melakukan download file Docker Toolbox tersebut, kita dapat lang
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-07/Image/4.png)
 
 Setelah selesai melakukan proses instalasi, nantinya akan terbuat 2 shortcut seperti berikut
+
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-07/Image/5.png)
 
 Yang akan kita gunakan yaitu Docker Quickstar Terminal, jadi nantinya kita akan menjalankan Docker pada terminal tersebut
