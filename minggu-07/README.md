@@ -1,4 +1,4 @@
-# Pertemuan ke-3      Praktikum Teknologi Cloud
+# Pertemuan ke-7      Praktikum Teknologi Cloud
 
 Berikut merupakan link untuk menuju ke file :
 
