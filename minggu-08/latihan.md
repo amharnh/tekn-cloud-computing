@@ -19,13 +19,16 @@ Dalam praktikum ini kita akan membuat folder baru sebagai tempat untuk melakukan
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-08/Image/4.png)
 
 - Membuat Dockerfile
+
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-08/Image/5.png)
 
 - Membuat docker-compose.yml untuk konfigurasi service
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-08/Image/6.png)
 
 - Menjalankan compose-up
+
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-08/Image/7.png)
 
-Dihasil akhir nantinya kita akan mengakses    dan akan menampilkan hasil sebagai berikut
+Dihasil akhir nantinya kita akan mengakses http://localhost:5000/ di browser dan akan menampilkan hasil sebagai berikut
+
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-08/Image/8.png)
