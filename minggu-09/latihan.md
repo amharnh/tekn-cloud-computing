@@ -17,3 +17,25 @@ Play With Docker / PWD ini merupakan sebuah proyek yang memungkinkan pengguna un
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%201/9.png)
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%201/10.png)
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%201/11.png)
+
+
+### Task 2 - Merancang dan jalankan aplikasi khusus menggunakan Docker
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%202/1.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%202/2.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%202/3.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%202/4.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%202/5.png)
+
+
+### Task 3 - Melakukan modifikasi pada website yang sedang dijalankan
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/1.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/2.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/3.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/4.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/5.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/6.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/7.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/8.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/9.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/10.png)
+![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-09/Image/Task%203/11.png)
