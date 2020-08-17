@@ -1,4 +1,10 @@
-Langkah 1 Periksa konfigurasi aplikasi
+# Pertemuan ke-14 Praktikum Teknologi Cloud
+
+## Belajar tentang Dasar - Dasar Kubernetes
+
+Pada praktikum kali ini kita akan belajar tentang praktikum menggunakan Kubernetes untuk pemula.
+
+### Langkah 1 Periksa konfigurasi aplikasi
 Mari kita verifikasi bahwa aplikasi yang kita terapkan di skenario sebelumnya sedang berjalan. Kita akan menggunakan perintah kubectl get dan mencari Pod yang ada:
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-14/Image/1.png)
 
@@ -14,7 +20,7 @@ Keluaran dari perintah gambarkan sangat luas dan mencakup beberapa konsep yang b
 
 Catatan: perintah menjelaskan dapat digunakan untuk mendapatkan informasi mendetail tentang sebagian besar primitif kubernetes: node, pods, deployments. Keluaran mendeskripsikan dirancang agar dapat dibaca manusia, bukan untuk dijadikan skrip.
 
-Langkah 2 Tunjukkan aplikasi di terminal
+#### Langkah 2 Tunjukkan aplikasi di terminal
 Ingatlah bahwa Pod berjalan di jaringan pribadi yang terisolasi - jadi kita perlu akses proxy ke Pod tersebut sehingga kita dapat men-debug dan berinteraksi dengannya. Untuk melakukan ini, kita akan menggunakan perintah kubectl proxy untuk menjalankan proxy di jendela terminal kedua. Klik pada perintah di bawah ini untuk secara otomatis membuka terminal baru dan menjalankan proxy: 
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-14/Image/3.png)
 
@@ -29,13 +35,13 @@ Untuk melihat keluaran dari aplikasi kita, jalankan permintaan curl. ![~](https:
 
 Url adalah rute ke API dari Pod.
 
-Langkah 3 Lihat log kontainer
+### Langkah 3 Lihat log kontainer
 Apa pun yang biasanya dikirimkan aplikasi ke STDOUT menjadi log untuk container di dalam Pod. Kita bisa mengambil log ini menggunakan perintah kubectl logs: 
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-14/Image/6.png)
 
-Catatan: Kami tidak perlu menentukan nama container, karena kami hanya memiliki satu container di dalam pod.
+Catatan: Disini kami tidak perlu menentukan nama container, karena kami hanya memiliki satu container di dalam pod.
 
-Langkah 4 Menjalankan perintah di wadah
+### Langkah 4 Menjalankan perintah di wadah
 Kita dapat menjalankan perintah secara langsung di container setelah Pod aktif dan berjalan. Untuk ini, kami menggunakan perintah exec dan menggunakan nama Pod sebagai parameter. Mari daftar variabel lingkungan: 
 ![~](https://github.com/amharnh/tekn-cloud-computing/blob/master/minggu-14/Image/7.png)
 
